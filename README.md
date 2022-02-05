@@ -2,9 +2,9 @@
 
 ## Prerequisite
 
-1. PHP 7.1 (https://php.net/downloads.php)
+1. PHP 7.4 (https://php.net/downloads.php)
 2. Composer (https://getcomposer.org/)
-3. PHPUnit 7.1 (https://phpunit.de/)
+3. PHPUnit 7.4 (https://phpunit.de/)
 
 For command line use, please setup properly for global environment.
 
